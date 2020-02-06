@@ -11,12 +11,38 @@ html {
     text-align: center;
 }
 
-header h1 {
+h1 {
     font-size: 3.125rem;
     font-weight: normal;
     margin-bottom: 2rem;
 }
 
-header a {
+a {
     color: aquamarine;
+}
+
+.content h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+    margin: 2rem 0;
+}
+
+h6 {
+    font-size: 1.3125rem;
+    color: grey;
+    margin-bottom: 1rem;
+}
+
+.content img.camp {
+    width: 80%;
+}
+
+footer img.phone {
+    width: 3%;
+    margin: 2rem 0;
+}
+
+footer h6 {
+    text-align: right;
+    margin: 1rem 0.75rem;
 }
